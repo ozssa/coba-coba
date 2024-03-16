@@ -6,6 +6,7 @@ Mencoba part 2
 - dan lagi
       - belajar react
       - belajar sampe mumet
-fitur01:
-- belajar
-- belajar
+Fituer02:
+- berdoa
+- bekerja kers
+
