@@ -1,0 +1,5 @@
+Mencoba part 2
+
+      - belajar
+      - belajar mysql
+      belajar react
