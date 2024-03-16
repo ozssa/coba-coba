@@ -2,4 +2,6 @@ Mencoba part 2
 
       - belajar
       - belajar mysql
-      belajar react
+- belajar lagi
+- dan lagi
+      - belajar react
